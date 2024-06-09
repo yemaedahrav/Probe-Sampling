@@ -1,3 +1,5 @@
-transformers==4.28.1
+transformers==4.33.1
 ml_collections
 fschat==0.2.20
+numpy==1.25.0
+pydantic==2.25.0
